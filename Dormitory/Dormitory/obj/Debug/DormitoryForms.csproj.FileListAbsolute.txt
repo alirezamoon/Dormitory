@@ -1,0 +1,50 @@
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\Dormitory.exe.config
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.exe
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\Dormitory.exe
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\Dormitory.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\DormitoryBLL.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\DormitoryBO.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\DormitoryDAL.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\DormitoryBLL.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\DormitoryBO.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\DormitoryDAL.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\DormitoryForms.csprojResolveAssemblyReference.cache
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.CreateStudent.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.DeleteStudent.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.EditForm2.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.Form1.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.Properties.Resources.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.SForm.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.ViewForm.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.SearchForm.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\DormitoryForms.csproj.GenerateResource.Cache
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.Forms.CapacityForm.resources
+E:\Programming\code\C#\TahlilProjects\bak\Dormitory\Dormitory\bin\Debug\Dormitory.exe.config
+E:\Programming\code\C#\TahlilProjects\bak\Dormitory\Dormitory\obj\Debug\Dormitory.exe
+E:\Programming\code\C#\TahlilProjects\bak\Dormitory\Dormitory\obj\Debug\Dormitory.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\bin\Debug\Dormitory.exe.config
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\bin\Debug\Dormitory.exe
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\bin\Debug\Dormitory.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\bin\Debug\DormitoryBLL.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\bin\Debug\DormitoryBO.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\bin\Debug\DormitoryDAL.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\bin\Debug\DormitoryBLL.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\bin\Debug\DormitoryBO.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\bin\Debug\DormitoryDAL.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\DormitoryForms.csprojAssemblyReference.cache
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.Forms.CapacityForm.resources
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.addStudent.resources
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.removeStudent.resources
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.Properties.Resources.resources
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.main.resources
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.showAllStudents.resources
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.searchStudent.resources
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\DormitoryForms.csproj.GenerateResource.cache
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\DormitoryForms.csproj.CoreCompileInputs.cache
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\DormitoryForms.csproj.CopyComplete
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.exe
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.updateStudent.resources
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.login.resources
+E:\univesity\Lesson\now\data base\project\Dormitory\Dormitory\obj\Debug\Dormitory.rooms.resources

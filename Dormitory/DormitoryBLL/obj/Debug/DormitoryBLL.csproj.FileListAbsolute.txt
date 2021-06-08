@@ -1,0 +1,20 @@
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBLL\bin\Debug\DormitoryBLL.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBLL\bin\Debug\DormitoryBLL.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBLL\bin\Debug\DormitoryBO.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBLL\bin\Debug\DormitoryDAL.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBLL\bin\Debug\DormitoryBO.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBLL\bin\Debug\DormitoryDAL.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBLL\obj\Debug\DormitoryBLL.csprojResolveAssemblyReference.cache
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBLL\obj\Debug\DormitoryBLL.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBLL\obj\Debug\DormitoryBLL.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\bin\Debug\DormitoryBLL.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\bin\Debug\DormitoryBLL.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\bin\Debug\DormitoryBO.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\bin\Debug\DormitoryDAL.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\bin\Debug\DormitoryBO.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\bin\Debug\DormitoryDAL.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\obj\Debug\DormitoryBLL.csprojAssemblyReference.cache
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\obj\Debug\DormitoryBLL.csproj.CoreCompileInputs.cache
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\obj\Debug\DormitoryBLL.csproj.CopyComplete
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\obj\Debug\DormitoryBLL.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBLL\obj\Debug\DormitoryBLL.pdb

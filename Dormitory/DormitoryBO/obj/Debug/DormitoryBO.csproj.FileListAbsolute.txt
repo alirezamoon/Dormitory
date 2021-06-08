@@ -1,0 +1,11 @@
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBO\bin\Debug\DormitoryBO.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBO\bin\Debug\DormitoryBO.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBO\obj\Debug\DormitoryBO.csprojResolveAssemblyReference.cache
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBO\obj\Debug\DormitoryBO.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryBO\obj\Debug\DormitoryBO.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBO\bin\Debug\DormitoryBO.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBO\bin\Debug\DormitoryBO.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBO\obj\Debug\DormitoryBO.csprojAssemblyReference.cache
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBO\obj\Debug\DormitoryBO.csproj.CoreCompileInputs.cache
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBO\obj\Debug\DormitoryBO.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryBO\obj\Debug\DormitoryBO.pdb

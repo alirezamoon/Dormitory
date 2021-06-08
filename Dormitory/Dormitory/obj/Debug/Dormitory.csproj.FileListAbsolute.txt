@@ -1,0 +1,12 @@
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\Dormitory.exe.config
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.csprojResolveAssemblyReference.cache
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.CreateStudent.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.Form1.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.Properties.Resources.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.Student.resources
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.csproj.GenerateResource.Cache
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\Dormitory.exe
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\bin\Debug\Dormitory.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.exe
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\Dormitory\obj\Debug\Dormitory.DeleteStudent.resources

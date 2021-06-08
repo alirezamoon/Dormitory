@@ -1,0 +1,16 @@
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryDAL\obj\Debug\DormitoryDAL.csprojResolveAssemblyReference.cache
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryDAL\bin\Debug\DormitoryDAL.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryDAL\bin\Debug\DormitoryDAL.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryDAL\bin\Debug\DormitoryBO.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryDAL\bin\Debug\DormitoryBO.pdb
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryDAL\obj\Debug\DormitoryDAL.dll
+E:\Programming\code\C#\TahlilProjects\MainProject\Dormitory\DormitoryDAL\obj\Debug\DormitoryDAL.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryDAL\bin\Debug\DormitoryDAL.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryDAL\bin\Debug\DormitoryDAL.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryDAL\bin\Debug\DormitoryBO.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryDAL\bin\Debug\DormitoryBO.pdb
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryDAL\obj\Debug\DormitoryDAL.csprojAssemblyReference.cache
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryDAL\obj\Debug\DormitoryDAL.csproj.CoreCompileInputs.cache
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryDAL\obj\Debug\DormitoryDAL.csproj.CopyComplete
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryDAL\obj\Debug\DormitoryDAL.dll
+E:\univesity\Lesson\now\data base\project\Dormitory\DormitoryDAL\obj\Debug\DormitoryDAL.pdb
