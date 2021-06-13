@@ -17,6 +17,7 @@ namespace DormitoryBLL
             StudentDataAccessLayer = new StudentDAL();
             RoomDataAccessLayer = new RoomDAL();
         }
+        //هندل کردن خطاها
         public void Insert(Student obj)
         {
             if (RoomDataAccessLayer.hasCapacity(obj.roomID) == false)

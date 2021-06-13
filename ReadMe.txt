@@ -1,5 +1,9 @@
-main project : in directory Dormitory
+****************** FILES PATH ****************** 
 
-backup from database : in directory Database
 
-project document : in document
+
+Main project :  ./Dormitory
+
+Database backup :  ./database
+
+Project document : ./document

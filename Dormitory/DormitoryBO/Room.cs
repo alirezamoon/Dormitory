@@ -8,11 +8,15 @@ namespace DormitoryBO
 {
     public class Room
     {
+        //تعریف صفت های اتاق
+        // در دیتابیس Room ستون های جدول
         public string RoomID { get; set; }
         public string RName { get; set; }
         public int capacity { get; set; }
         public int bedNumber { get; set; }
         public string options { get; set; }
+
+        //تعریف سازنده های موردنیاز
         public Room(string roomID, string rname, int cap, int bednum, string op)
         {
             this.RoomID = roomID;

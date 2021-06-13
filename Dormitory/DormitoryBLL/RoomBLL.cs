@@ -10,6 +10,9 @@ namespace DormitoryBLL
 {
     public class RoomBLL
     {
+        // هندل کردن خطاها
+        //خطایی رخ نمیدهد Room در رابطه با کار دیتابیس با جدول
+        // مستقیم میرویم برای کار با دیتابیس
         RoomDAL roomDataAccessLayer;
         public RoomBLL()
         {
